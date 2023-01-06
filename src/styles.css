@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.website-logo {
+  width: 65px;
+  height: 65px;
+  margin-top: 12px;
+}
+@media screen and (min-width: 768px) {
+  .website-logo {
+    width: 125px;
+  }
+}
